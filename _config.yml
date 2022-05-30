@@ -11,7 +11,7 @@ footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyl
   <a href="https://www.kuleuven.be/kuleuven/" target="_blank">KU Leuven</a>.
   
 
-show_news: true
+show_news: false
 show_address: true
  
 url:  # the base hostname & protocol for your site
