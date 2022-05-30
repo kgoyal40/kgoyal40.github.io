@@ -4,4 +4,4 @@ permalink: /publications/
 title: publications
 ---
 
-{% bibliography %}
+[comment]: <> ({% bibliography %})
