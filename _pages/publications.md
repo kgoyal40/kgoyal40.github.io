@@ -1,11 +1,11 @@
-[comment]: <> (---)
+---
 
-[comment]: <> (layout: page)
+layout: page
 
-[comment]: <> (permalink: /publications/)
+permalink: /publications/
 
-[comment]: <> (title: publications)
+title: publications
 
-[comment]: <> (---)
+---
 
-[comment]: <> ({% bibliography %})
+{% bibliography %}
