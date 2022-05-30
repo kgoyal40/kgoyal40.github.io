@@ -1,9 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-first_name: FirstName
-last_name: LastName
-email: yourname@cs.kuleuven.be
+first_name: Kshitij
+last_name: Goyal
+email: kshitij.goyal@kuleuven.be
 description: > # this means to ignore newlines until "url:"
   KU Leuven PhD researcher at the DTAI research group.
 footer_text: > # Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -21,13 +21,13 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # KU Leuven integration
 # -----------------------------------------------------------------------------
-ku_leuven_personnel_number: "0XXXXXX"
+ku_leuven_personnel_number: "0120134"
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: # your GitHub user name
-twitter_username: # your Twitter handle
+github_username: kgoyal40
+twitter_username: # your twitter username
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
@@ -35,7 +35,7 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 
 contact_note: >
-  You can reach me on firstname.lastname@kuleuven.be
+  You can reach me on kshitij.goyal@kuleuven.be
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
