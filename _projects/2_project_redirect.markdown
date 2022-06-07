@@ -1,11 +1,12 @@
-[comment]: <> (---)
+---
 
-[comment]: <> (layout: page)
+layout: page
 
-[comment]: <> (title: Project 2)
+title: Personalized Search with Deep Learning
 
-[comment]: <> (description: a project with a redirect)
+description: This project was my Master's thesis for Masters in Artificial Intelligence (2017-2018). 
+The final text can be downloaded from <a href="{{ site.url }}/download/CV/resume-kshitij-goyal.pdf">here</a>.
 
-[comment]: <> (redirect: https://www.google.com)
+redirect: 
 
-[comment]: <> (---)
+---
